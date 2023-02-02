@@ -1,0 +1,12 @@
+{
+  "name": "bevy_pong",
+  "version": "0.1.0",
+  "files": [
+    "bevy_pong_bg.wasm",
+    "bevy_pong.js",
+    "bevy_pong.d.ts"
+  ],
+  "module": "bevy_pong.js",
+  "types": "bevy_pong.d.ts",
+  "sideEffects": false
+}
